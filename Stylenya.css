@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(148, 204, 215);
+    color: rgb(0, 0, 0); /* Ubah warna teks menjadi putih agar terlihat kontras */
+    font-family: Arial, sans-serif; /* Ganti dengan font yang Anda inginkan */
+    margin: 0;
+    padding: 0;
+}
